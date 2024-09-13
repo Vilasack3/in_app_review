@@ -103,14 +103,6 @@ Similarly to Android, real reviews can only created when `requestReview()` is us
 
 This plugin can be tested by running your MacOS application locally.
 
-# Cross Platform Compatibility
-
-| Function             | Android | iOS | MacOS | Windows |
-|----------------------|---------|-----|-------|--------------|
-| `isAvailable()`      | ✅       | ✅   | ✅     | ❌            |
-| `requestReview()`    | ✅       | ✅   | ✅     | ❌            |
-| `openStoreListing()` | ✅       | ✅   | ✅     | ✅            |
-
 # Requirements
 
 ## Android
